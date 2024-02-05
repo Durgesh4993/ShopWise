@@ -2,7 +2,6 @@
 pragma solidity ^0.8.4;
 
 contract Store {
-
     // Defining store variables
     address public immutable storeOwner;
     uint256 public storeAcc;
