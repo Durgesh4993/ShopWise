@@ -1,7 +1,6 @@
 (function($){
 
     "use strict";
-
     var mainWindow          = $(window),
         mainDocument        = $(document),
         youtubeThumb        = $('.youtube-thumbnail'),
