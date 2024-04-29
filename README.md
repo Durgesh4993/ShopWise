@@ -1,4 +1,7 @@
 # ShopWise
+
+[Presentation](https://1drv.ms/p/s!Ai3clvPgVnf0gcU3iKn4jj8OohyZXQ?e=c4TK00)
+
 ### Conversational interface
 
 * DESCRIPTION: Customers are unable to 'look & feel' the product sitting at the comfort of their homes, so there is always an ambiguity of not knowing that their purchase was right or not. Building trust in the product or seller in an online marketplace has always been a challenge.
