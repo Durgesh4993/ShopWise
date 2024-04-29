@@ -1,5 +1,7 @@
 # ShopWise
 
+<img width="100%" src="https://github.com/Durgesh4993/ShopWise/assets/98798977/4d522403-252b-4264-b880-f963cf7ee040">
+
 [Presentation](https://1drv.ms/p/s!Ai3clvPgVnf0gcU3iKn4jj8OohyZXQ?e=c4TK00)
 
 ### Conversational interface
